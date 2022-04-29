@@ -1,4 +1,4 @@
-# Exercício do capítulo 04 do Curso de Power BI da DSA.
+# Exercício do Curso de Power BI da DSA.
 
 ![Dashboard de Vendas, Custo, Margem de lucro e KPI.](dashboardCap04.png)
 
